@@ -1,3 +1,5 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by hoaiphuc](https://github.com/hoaiphuc/math-util/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/hoaiphuc/math-util/actions/workflows/ci-junit.yml)
+
 # Welcome to Math-Util Repository
 ### You will fine in this repo the following stuff:
 * The Math-Util library the offers multiple math function (a java-base
